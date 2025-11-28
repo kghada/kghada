@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm EVY
+## 👋 Hi there! I'm Ghada
 
 💻 Passionate developer building **tools, apps, and cool side projects** that make coding more fun and efficient.  
 🌱 Constantly learning **modern app dev, AI, and automation**.  
